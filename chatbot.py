@@ -1,3 +1,4 @@
+# %%
 import openai
 from openai import OpenAI
 import os
@@ -55,4 +56,7 @@ collection.add(
 # dirコマンドは大事，メソッドの一覧がわかる．jsonで言うと，jsonの構造が一目でわかるわけ．
 
 # 来週はlangchainを使った．チャンキング
+# %%
+print("a")
+
 # %%
